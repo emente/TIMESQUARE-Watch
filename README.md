@@ -1,3 +1,11 @@
+use this
+
+![micro word clock](https://raw.githubusercontent.com/formatc1702/Micro-Word-Clock/master/v2/Graphics/German%2020x20mm.png)
+
+with a adafruit timesquare clock
+
+
+
 TIMESQUARE Watch
 ================
 
